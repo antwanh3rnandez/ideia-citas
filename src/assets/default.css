@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    max-height: 40px;
+    margin: auto;
+    display: block;
+    padding: 10px;
+}
