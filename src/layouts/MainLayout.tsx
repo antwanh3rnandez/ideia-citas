@@ -9,7 +9,7 @@ export const MainLayout = ({ children }: { children: ReactNode }) => {
                 <Container maxWidth='sm'>
                     <Toolbar disableGutters>
                         {/* <Typography sx={{marginX: 'auto'}} variant='h6' textAlign={'center'}>Agenda tu cita</Typography> */}
-                        <img src={ideiaLogo} alt='logo toi' className='logo' />
+                        <img src={ideiaLogo} alt='logo ideia' className='logo' />
                     </Toolbar>
                 </Container>
             </AppBar>

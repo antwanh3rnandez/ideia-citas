@@ -1,6 +1,6 @@
 import { ThemeOptions, createTheme } from '@mui/material';
 
-export const toiTheme: ThemeOptions = createTheme({
+export const ideiaTheme: ThemeOptions = createTheme({
     palette: {
         mode: 'light',
         primary: {
